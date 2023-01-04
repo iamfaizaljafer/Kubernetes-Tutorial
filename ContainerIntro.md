@@ -88,10 +88,6 @@ Most companies have their software hosted as images in DockerHub.
 - Container = Running instance of an image.
 - If you can't find the image in dockerhub, create one and upload it.
 
-### Deployment Models (VM vs Containers)
-
-![VMvsContainter](https://user-images.githubusercontent.com/91851332/145317900-15747f1f-e22f-4651-9caa-4648d31cffc6.png)
-
 # Docker Advantages
 
 - Resource savings (no additional OS files or OS processing needed)
