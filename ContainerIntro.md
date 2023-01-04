@@ -4,7 +4,7 @@
 
 #### Need for Container?
 
-###### Traditional architecture
+#### Traditional architecture
 
 All the softwares are developed for a particular OS version and 
 While installing the software we go through the below procedure as there would be a lot of dependencies issues.
@@ -12,7 +12,7 @@ While installing the software we go through the below procedure as there would b
  <img width="1229" alt="Screenshot 2023-01-04 at 11 19 18 PM" src="https://user-images.githubusercontent.com/64770011/210618447-d20788f9-899d-4257-a1dd-0ffd8497bf5f.png">
 
 
-##### Software developers’ issues
+#### Software developers’ issues
 
 - They had to build their softwares differently for each operating system in the market.
 - **Each developer could use a different version which causes issues.**
@@ -25,7 +25,7 @@ While installing the software we go through the below procedure as there would b
     - Production server ubuntu 21.1
     - This might again cause issues.
 
-##### Compatibility issues of the application.
+#### Compatibility issues of the application.
 
 - app1 requires python2 and ubuntu 19
 - app2 requires python3 and ubuntu 20
